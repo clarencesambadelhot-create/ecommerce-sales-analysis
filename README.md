@@ -1,4 +1,4 @@
-E-Commerce Sales Analysis (Python)
+E-Commerce Sales Analysis (Python) - Smartphone and gadget company
 
 An end-to-end data analysis project utilizing Pandas, Matplotlib, and Seaborn to solve real-world business challenges for an electronics retailer.
 
